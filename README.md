@@ -109,11 +109,11 @@ python scripts/yolov5_backend.py
 ## Deployment Considerations
 
 ### Production Setup
-1. Replace mock detection with actual YOLOv5 model
-2. Implement proper database for room/booking data
-3. Add user authentication and authorization
-4. Set up real video streaming infrastructure
-5. Implement WebSocket connections for real-time updates
+
+1. Implement proper database for room/booking data
+2. Add user authentication and authorization
+3. Set up real video streaming infrastructure
+4. Implement WebSocket connections for real-time updates
 
 ### Scalability
 - Horizontal scaling for multiple rooms
